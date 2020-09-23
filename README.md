@@ -10,6 +10,12 @@ The dataset present in sklearn library.converted the dataset into dataframe of a
 # how does it works 
 In knn "k" is called the number of nerarest neighbors,based on the number of neighbors close to a newdatapoint to the nerest traing instance the new datapoint will be classified as that class
 
+1)claculate distance (with distance metric)
+
+2)find the closest neighbors
+
+3)vote for labels
+
 # also used a method to find the best parameters for this model
 explanation is given along with the code.Used the best hyperparameters to bulid the model
 # Evaluvation
